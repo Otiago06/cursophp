@@ -1,8 +1,8 @@
 # **Curso PHP**
 _Repositório para armazenar os conteúdos do curso de php_
 
-## **Anotações do Curso**
-## Ordem de Precedência
+## *Anotações do Curso*
+### Ordem de Precedência
 - ( )
 - **
 - *, /, %
