@@ -1,5 +1,5 @@
 # **Curso PHP**
-_Repositório para armazenar os conteúdos do curso de php_
+_Repositório para armazenar os conteúdos do curso de **php** ministrado pelo professor Gustavo Guanabara (https://github.com/gustavoguanabara)_
 
 ## *Anotações do Curso*
 ### Ordem de Precedência
