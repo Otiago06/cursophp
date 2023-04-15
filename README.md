@@ -10,14 +10,14 @@ _Repositório para armazenar os conteúdos do curso de php_
 
 ### Funções Aritméticas
 - abs(500); valor absoluto
-- base_convert(254, 10, 8); Conversor de bases
+- base_convert(254, 10, 8); conversor de bases
 - ceil(); arredondamento para cima
 - floor(); arredondamento para baixo
 - round(); arredondamento aritmético
 - hypot(); calcular a hypotenusa
 - intdiv(); divisão inteira
-- min(5,2,7,5,1,9,7,6); Minimo
-- max(5,2,7,5,1,9,7,6); Máximo
+- min(5,2,7,5,1,9,7,6); minimo
+- max(5,2,7,5,1,9,7,6); máximo
 - pi(); valor de PI
 - pow(5,2); potencia
 - sin(); cos(); tan();
